@@ -1,5 +1,5 @@
 # ProductList
-Product details  responsive page with swap and drop product functionality and filter functionality based on the category.
+Product details  responsive page with swap and drop product functionality and filter product option based on the category.
 
 ProductList Page 
 Simple Product list responsive page  with drag and swap product functionality.
