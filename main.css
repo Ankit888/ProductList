@@ -1,0 +1,77 @@
+body {
+  background: linear-gradient(to left, #3D7EAA  0%, #FFE47A 100%);
+}
+
+li {
+    list-style-type: none;
+
+}
+
+.btn {
+    width: 100px;
+    height: 25px;
+    background: red;
+    color: white;
+    text-align: center;
+    line-height: 25px;
+
+}
+
+
+.navul li{
+  color:red;
+}
+
+.flexcontainer {
+  display: flex;
+  justify-content:center;
+  /*background: linear-gradient(to left, #283048 0%, #859398 100%);*/
+  flex-wrap:wrap;
+}
+
+.buttonclass{
+	
+	background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: arial, sans-serif;
+  /*input has OS specific font-family*/
+  color: white;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+
+
+
+.divdrag {
+  padding: 30px;
+  background-color: white;
+  transition: transform .2s;
+  width: 280px;
+  height: 300px;
+  margin: 10px;
+  border:1px solid black;
+
+  font-size: 16px;
+  line-height: 1.5;
+  font-weight: 400;
+}
+
+.divdrag:hover {
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari 3-8 */
+  transform: scale(1.1); 
+}
+
+
+
+
+
+
+
+
+
+
+
