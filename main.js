@@ -1,4 +1,4 @@
-var jsonData1 =1 ;
+
 
 
 function displayUser(users,check){
@@ -109,7 +109,7 @@ function handleDragEnd (evt) {
 
 
 }
-
+var jsonData1 =1 ;
 window.addEventListener('load', 
   function() { 
 
